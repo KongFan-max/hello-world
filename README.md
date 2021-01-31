@@ -1,2 +1,2 @@
 # hello-world
-hello新手引导
+Hi !
